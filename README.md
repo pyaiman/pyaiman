@@ -12,12 +12,15 @@ I am an AI developer with expertise in various technologies and platforms. I can
 
 ### Skill
  
-🛠 Python, Django, Flask, FaskAPI, Celery, NumPy, SciPy, Pandas
-🛠 Javascript, React.js, Redux, Next.js, Vue.js, Nuxt.js, Ember.js, Node.js, Express, Nest.js
-🛠 PostgreSQL, MySQL, MongoDB
-🛠 HTML5, CSS, Tailwind CSS, Styled-Components, Bootstrap
-🛠 Open-AI, ChatGPT(3, 4), ImageGPT(3, 4), Langchain, Botpress, Dialogflow, HuggingFace,  Google Bard, TensorFlow, OpenAI
-🛠 Docker, AWS, Heroki, Netlify, GCP
-🛠 Trello, Jira, Asana, Monday.com
-🛠 Amazon Web Services, Azure, Heroku, Netlify
+🌐 Python, Django, Flask, FaskAPI, Celery, NumPy, SciPy, Pandas
+
+🌐 Javascript, React.js, Redux, Next.js, Vue.js, Nuxt.js, Ember.js, Node.js, Express, Nest.js
+
+🌐 PostgreSQL, MySQL, MongoDB
+
+🌐 HTML5, CSS, Tailwind CSS, Styled-Components, Bootstrap
+
+🌐 Open-AI, ChatGPT(3, 4), ImageGPT(3, 4), Langchain, Botpress, Dialogflow, HuggingFace,  Google Bard, TensorFlow, OpenAI
+
+🌐 Docker, AWS, Heroki, Netlify, GCP
 
