@@ -2,7 +2,7 @@
 # 🚀 AI, ML, and Full-Stack Development with 10+ years of expertise 🚀
 
 
-## Hi there 👋
+### Hi there 👋
 As a Full Stack Engineer, I am responsible for the development and maintenance of web-based applications and systems. This includes designing and implementing user interfaces using front-end and back-end technologies as well as implementing server-side logic.
 
 I am responsible for the development and maintenance of web-based applications and systems, including the design and implementation of user interfaces, the implementation of server-side logic, and the building and maintenance of databases. I ensure that the web applications I work on are secure, scalable, and maintainable, and I contribute to the planning and execution of new features and updates. I am adept at troubleshooting and fixing issues that arise, and I stay up-to-date with the latest technologies and best practices in web development to deliver high-quality solutions.
