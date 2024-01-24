@@ -1,5 +1,5 @@
 
-# 🚀 Expert in AI, ML, and Full-Stack Development with 10+ years of expertise
+# 🚀 AI, ML, and Full-Stack Development with 10+ years of expertise 🚀
 
 
 ## Hi there 👋
