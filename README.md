@@ -1,5 +1,5 @@
 
-# 🚀 AI, ML, and Full-Stack Development with 10+ years of expertise 🚀
+# 🚀 Full stack Developer, AI/ML Engineer 🚀
 
 
 ### Hi there 👋
